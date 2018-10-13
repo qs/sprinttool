@@ -1,0 +1,9 @@
+{
+  "body": "{\"title\": \"Sprint Test\", \"start\": 1539475200, \"finish\": 1539993600, \"description\": \"test sprint\", \"resolution\": \"Some results\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
+

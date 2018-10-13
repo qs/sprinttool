@@ -1,0 +1,11 @@
+{
+  "body": "{\"resolution\": \"all done\"}",
+  "pathParameters": {
+    "id": "eeaaf110-cf00-11e8-a29d-7b322ff28f86"
+  },
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
